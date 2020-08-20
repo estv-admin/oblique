@@ -1,6 +1,6 @@
 {
-  "title": "Oblique",
-  "name": "@oblique/oblique",
+  "title": "Oblique DIP mod",
+  "name": "@dip/oblique",
   "version": "5.0.5",
   "license": "MIT License",
   "organization": {
@@ -25,11 +25,11 @@
     "Christian Ulmann"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.com/"
+    "registry": "https://dipvm03.labor.estv.admin.ch/repository/npm-private/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oblique-bit/oblique.git"
+    "url": "https://github.com/estv-admin/oblique"
   },
   "scripts": {
     "lib": "npm run build -- oblique --watch",

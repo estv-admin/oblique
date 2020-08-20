@@ -1,5 +1,5 @@
 {
-  "name": "@oblique/oblique",
+  "name": "@dip/oblique",
   "version": "",
   "peerDependencies": {
     "@angular/animations": "^9.0.0",
